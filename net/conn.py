@@ -4,7 +4,7 @@ import socket, requests, threading
 import ngrok
 
 global url_s
-ip = "192.168.1.8:8080"
+ip = ""
 
 def host(): 
      
